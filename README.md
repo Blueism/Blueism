@@ -1,27 +1,19 @@
-### I'm Blueism
+### Blueism
 
-## Some things I do:
+Hi there! I'm Blueism I do simple things like, program, cyber security and sometimes game development.
 
-* Cyber Security (Defensive)
+## Projects
 
-* Game Development
+* [CyberSafe](https://github.com/Blueism/RapidSafe)
 
-* Programming
+## Information
 
-**Not for hire**
+* [Twitter](https://twitter.com/Blu3xism)
 
-## Things I'm Working On
+* [Discord: Blueism#6034](https://discord.com)
 
-I'm currently working on [RapidSafe](https://github.com/Blueism/RapidSafe)
+* [Roblox](https://www.roblox.com/users/1171355313/profile)
 
+# Curious about my logo?
 
-**Bnwt66US1RpmA+vQiTVjNqEKFEVovEFHoUFSofDwHi6ZXPqXLsmSw95s6wLs5CI6LaDdEgBD7u7ryN19dpSS14SwDNGjIXOz36f8URdRqI6SCSBQBy1Kf3oCMVaFfBaskTZ2ZsmI90r5GlHQ6eXoG01MV3jrDb5oRyeDDFlrOlU=**
- _______     .---.      ___    _     .-''-.  .-./`)    .-'''-. ,---.    ,---. 
-\  ____  \   | ,_|    .'   |  | |  .'_ _   \ \ .-.')  / _     \|    \  /    | 
-| |    \ | ,-./  )    |   .'  | | / ( ` )   '/ `-' \ (`' )/`--'|  ,  \/  ,  | 
-| |____/ / \  '_ '`)  .'  '_  | |. (_ o _)  | `-'`"`(_ o _).   |  |\_   /|  | 
-|   _ _ '.  > (_)  )  '   ( \.-.||  (_,_)___| .---.  (_,_). '. |  _( )_/ |  | 
-|  ( ' )  \(  .  .-'  ' (`. _` /|'  \   .---. |   | .---.  \  :| (_ o _) |  | 
-| (_{;}_) | `-'`-'|___| (_ (_) _) \  `-'    / |   | \    `-'  ||  (_,_)  |  | 
-|  (_,_)  /  |        \\ /  . \ /  \       /  |   |  \       / |  |      |  | 
-/_______.'   `--------` ``-'`-''    `'-..-'   '---'   `-...-'  '--'      '--'
+My logo represents the security of America in general.
