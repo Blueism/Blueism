@@ -1,4 +1,4 @@
-### Blueism
+# Blueism
 
 Hi there! I'm Blueism I do simple things like, program, cyber security and sometimes game development.
 
@@ -14,6 +14,6 @@ Hi there! I'm Blueism I do simple things like, program, cyber security and somet
 
 * [Roblox](https://www.roblox.com/users/1171355313/profile)
 
-# Curious about my logo?
+### Curious about my logo?
 
 My logo represents the security of America in general.
